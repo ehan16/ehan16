@@ -11,7 +11,6 @@
   </a>
   <p>
      <img src="https://komarev.com/ghpvc/?username=ehan16&style=flat-square&color=blue" alt="ehan16"/>
-     <img src="https://gitwar.herokuapp.com/badge?username=ehan16&color=blue" alt="ehan16"/>
   </p>
 </div>
 
