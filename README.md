@@ -16,9 +16,9 @@
 
 # Hey! I'm Erika Han ✋
 
-A continuously growing Software Engineer, currently working at P&G and learning about **Data Engineering**.
+A continuously growing Software Engineer, currently working at P&G and learning about **Software Engineering**.
 
-💬 Ask me about **HTML, CSS, TypeScript, React, UX/UI design or anything really!**
+💬 Ask me about **Frontend, Backend, Data Engineering, UX/UI or anything really!**
 
 ## 👾 Technologies and tools
 
