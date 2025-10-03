@@ -1,9 +1,9 @@
 # Hey! Nice to see you ✨
 
-I'm Erika, a Senior Data Engineer at Procter & Gamble living in Panama 🇵🇦🏝️
+I'm Eri, a Senior Data Engineer at Procter & Gamble living in Panama 🇵🇦🏝️
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;A continuously growing Software Engineer and Project Manager
+- 🔭 &nbsp;I’m currently learning about AI-Enabled SDLC
+- 🌱 &nbsp;A continuously growing Software Engineer, Product Owner and Project Manager
 - 💬 &nbsp;Ask me about anything related to **Frontend, Backend, Data Engineering, UX/UI or anything!**
 
 <div>
@@ -26,3 +26,6 @@ I'm Erika, a Senior Data Engineer at Procter & Gamble living in Panama 🇵🇦�
 
 [![Learning](https://skillicons.dev/icons?i=go,gcp,vim&perline=10)](https://skillicons.dev)
 
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ehan16&label=Profile%20views&color=0e75b6&style=flat" alt="ehan16" /> </p>
